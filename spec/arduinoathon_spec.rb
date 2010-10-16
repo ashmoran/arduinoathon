@@ -2,7 +2,7 @@ require 'spec_helper'
 require 'arduinoathon'
 
 describe "arduinoathon" do
-  it "does something" do
-    fail "needs some specs"
+  it "compares numbers" do
+    (1 + 1).should eq 2
   end
 end
