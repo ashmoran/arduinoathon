@@ -1,5 +1,5 @@
 class Arduinoathon
-  def compare
+  def compare(a, b)
     
   end
 end
